@@ -1,0 +1,1 @@
+Extracted gem to test simplecov version spec
